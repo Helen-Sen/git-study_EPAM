@@ -4,4 +4,8 @@ test789
 test887
 _____________
 
+<<<<<<< HEAD
 some chengning in main branch for studing conflict
+=======
+some chengning in feature branch for studing conflict
+>>>>>>> feature
